@@ -1,0 +1,2 @@
+module CicdProject1 {
+}
